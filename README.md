@@ -10,7 +10,7 @@ This Twitter bot is designed to periodically post tweets on a Twitter account us
 
 ## Installation Steps
 
-# 1. Clone the Repository
+### 1. Clone the Repository
 
 Clone the repository containing the Twitter bot code:
 
@@ -19,7 +19,7 @@ git clone https://github.com/your_username/twitter-bot.git
 cd twitter-bot
 ```
 
-# 2. Install Dependencies
+### 2. Install Dependencies
 
 Install the required Python packages using pip:
 
@@ -27,7 +27,7 @@ Install the required Python packages using pip:
 pip install -r requirements.txt
 ```
 
-# 3. Set Up Environment Variables
+### 3. Set Up Environment Variables
 
 Create a .env file in the root directory of the project and add the following environment variables:
 
@@ -41,7 +41,7 @@ OPENAI_API_KEY=your_openai_api_key
 ```
 Replace your_twitter_* and your_openai_api_key with your actual Twitter API keys and OpenAI API key.
 
-# 4. Run the Bot
+### 4. Run the Bot
 
 Execute the bot by running the following command:
 
