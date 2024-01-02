@@ -1,0 +1,82 @@
+[
+    {
+      "label": "Interesting Fact",
+      "prompt": "Generate an interesting fact about the world's oceans and gold."
+    },
+    {
+      "label": "Science",
+      "prompt": "Create a tweet about the fascinating phenomenon of quantum entanglement in particle physics."
+    },
+    {
+      "label": "Historical Figure",
+      "prompt": "Generate a tweet highlighting an intriguing fact about Cleopatra and her linguistic abilities."
+    },
+    {
+      "label": "Country's Good",
+      "prompt": "Create a tweet emphasizing the abundance of lakes in Canada compared to the rest of the world."
+    },
+    {
+      "label": "Human Body",
+      "prompt": "Generate a tweet showcasing the regenerative capability of the liver, even after significant damage."
+    },
+    {
+      "label": "Cars (Facts & Figures)",
+      "prompt": "Create a tweet sharing an impressive fact or figure about the Bugatti Chiron's acceleration."
+    },
+    {
+      "label": "History",
+      "prompt": "Generate a tweet highlighting an interesting fact about the length of the Great Wall of China."
+    },
+    {
+      "label": "Art",
+      "prompt": "Create a tweet discussing Leonardo da Vinci's exceptional talent and ambidextrous abilities."
+    },
+    {
+      "label": "Technology",
+      "prompt": "Generate a tweet discussing the emergence of the first computer virus, the Elk Cloner, in 1983."
+    },
+    {
+      "label": "Space",
+      "prompt": "Create a tweet exploring the potential existence of an ocean on Jupiter's moon, Europa, and its significance."
+    },
+    {
+      "label": "Literature",
+      "prompt": "Generate a tweet highlighting Shakespeare's contribution to the English language by inventing words."
+    },
+    {
+      "label": "Medicine",
+      "prompt": "Create a tweet discussing the accidental discovery of penicillin by Alexander Fleming in 1928."
+    },
+    {
+      "label": "Geography",
+      "prompt": "Generate a tweet highlighting the vastness of the Sahara Desert compared to the contiguous United States."
+    },
+    {
+      "label": "Philosophy",
+      "prompt": "Create a tweet explaining the Socratic Method used by Socrates for teaching."
+    },
+    {
+      "label": "Economics",
+      "prompt": "Generate a tweet discussing the origin of the concept of supply and demand, introduced by Adam Smith."
+    },
+    {
+      "label": "Animals",
+      "prompt": "Create a tweet showcasing the social aspect of cows, their friendships, and stress when separated."
+    },
+    {
+      "label": "Architecture",
+      "prompt": "Generate a tweet discussing the extended duration taken to complete the Leaning Tower of Pisa."
+    },
+    {
+      "label": "Music",
+      "prompt": "Create a tweet highlighting Beethoven's remarkable compositions despite his deafness."
+    },
+    {
+      "label": "Sports",
+      "prompt": "Generate a tweet sharing the unique aspect of golf being played on the moon."
+    },
+    {
+      "label": "Psychology",
+      "prompt": "Create a tweet explaining the butterfly effect and its significance in psychology."
+    }
+  ]
